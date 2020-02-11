@@ -2,10 +2,10 @@
 ### 라즈베리파이를 이용하여 손으로 쓴 숫자를 인식해보자
 
 - ## Model Layer
-    ![image](\doc\model.jpg)
+    ![image](https://github.com/vkdnjznd/raspberry-mnist/blob/master/doc/model.jpg)
 - ## Training Data
 ## <center>Mnist Dataset</center>
-![image](\doc\MnistExamples.png)
+![image](https://github.com/vkdnjznd/raspberry-mnist/blob/master/doc/MnistExamples.png)
 
 시스템 환경은 다음과 같다 
 - Model = Raspberry Pi 4 4GB
@@ -26,7 +26,7 @@
 ---
 #### Step 3 라즈비안에 패키지 설치
 ## <center>카메라 설정이 Enable 인지 확인</center>
-![image](\doc\camera.jpg)
+![image](https://github.com/vkdnjznd/raspberry-mnist/blob/master/doc/camera.jpg)
 
 가상환경(virtualenv)에 설치하는것을 권장
     
@@ -40,7 +40,7 @@
 ***
 #### Step 4 실행
     python3 TFLite_mnist_webcam.py --modeldir=mnist_model
-![image](\doc\test.jpg)
+![image](https://github.com/vkdnjznd/raspberry-mnist/blob/master/doc/test.jpg)
 
 
 
