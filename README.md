@@ -1,10 +1,12 @@
 # raspberry-mnist
-### 라즈베리파이를 이용하여 손으로 쓴 숫자를 인식해보자
+라즈베리파이를 이용하여 손으로 쓴 숫자를 인식해보자
 
 - ## Model Layer
     ![image](https://github.com/vkdnjznd/raspberry-mnist/blob/master/doc/model.jpg)
 - ## Training Data
-## <center>Mnist Dataset</center>
+
+<center> Mnist Dataset </center>
+
 ![image](https://github.com/vkdnjznd/raspberry-mnist/blob/master/doc/MnistExamples.png)
 
 시스템 환경은 다음과 같다 
